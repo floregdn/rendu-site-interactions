@@ -1,4 +1,4 @@
-// verification formulaire
+// menu burger
 document.addEventListener('DOMContentLoaded', function() {
     const burgerIcon = document.getElementById('burger-icon');
     const menu = document.getElementById('menu');
